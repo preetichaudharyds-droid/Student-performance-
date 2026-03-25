@@ -73,13 +73,7 @@ The dataset contains information such as:
 
 ---
 
-## 🤖 Machine Learning Models
 
-| Model             | Description                      |
-| ----------------- | -------------------------------- |
-| Linear Regression | Predicts continuous scores       |
-| Decision Tree     | Handles non-linear relationships |
-| Random Forest     | Improves accuracy using ensemble |
 
 ---
 
