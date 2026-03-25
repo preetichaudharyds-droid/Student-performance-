@@ -75,8 +75,6 @@ The dataset contains information such as:
 
 
 
----
-
 ## 📊 Results
 
 * Achieved good prediction accuracy using Random Forest
